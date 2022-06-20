@@ -1,2 +1,7 @@
 .idea
 *.iml
+.project
+.loadpath
+.bundle 
+vendor
+Gemfile.lock
